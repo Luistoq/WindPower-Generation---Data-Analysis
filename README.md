@@ -64,6 +64,7 @@ The Wind Power Generation Analysis App is a comprehensive tool for exploring and
 This Streamlit app is a powerful tool for wind power data analysis, offering various data processing and visualization capabilities. It's designed for both beginners and advanced users interested in wind energy dynamics.
 
 ### Contact Details
-![Interested in similar applications?](screenshots/Designer.png)
-Email: [luistoq@outlook.com](mailto:luistoq@outlook.com)
+<img src="screenshots/Designer.png" width="300" alt="Interested in similar applications?">
+
+Email: [luistoq@outlook.com](mailto:luistoq@outlook.com)  
 [LinkedIn Profile](https://www.linkedin.com/in/luis-toral-251007/)
