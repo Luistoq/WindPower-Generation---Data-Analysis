@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 import plotly.express as px
 import numpy as np
 
-st.header('Principal Component Analysis (PCA) for Wind Power Generation Data')
+st.subheader('Principal Component Analysis (PCA) for WindPower Datasets')
 
 # Function to load data
 @st.cache_data 
