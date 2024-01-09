@@ -13,6 +13,7 @@ The Wind Power Generation Analysis App is a comprehensive tool for exploring and
   - Instructions on how to use the app.
 
 ### Visualization Page
+![Visualisation Page](screenshots/Visualisation.png)
 - **Functionality**: 
   - Load and visualize wind power data.
   - Plot data based on user-selected variables and frequencies (Hourly, Weekly, Monthly, etc.).
