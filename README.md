@@ -13,7 +13,7 @@ The Wind Power Generation Analysis App is a comprehensive tool for exploring and
   - Instructions on how to use the app.
 
 ### Visualization Page
-![Visualisation Page](screenshots/Visualisation.png)
+![Visualisation Page](screenshots/visualisation.png)
 - **Functionality**: 
   - Load and visualize wind power data.
   - Plot data based on user-selected variables and frequencies (Hourly, Weekly, Monthly, etc.).
@@ -24,6 +24,7 @@ The Wind Power Generation Analysis App is a comprehensive tool for exploring and
   - Frequency of data visualization.
 
 ### Correlation Analysis Page
+![Correlation Analysis Page](screenshots/CorrelationAnalysis.png)
 - **Purpose**: 
   - To analyze the correlation between different variables and power output.
 - **Features**:
@@ -31,6 +32,7 @@ The Wind Power Generation Analysis App is a comprehensive tool for exploring and
   - Interpretation of results explaining positive, negative, and neutral correlations.
 
 ### Principal Component Analysis (PCA) Page
+![PCA Page](screenshots/PCA.png)
 - **Functionality**: 
   - Conduct PCA on the dataset.
   - Display explained variance ratio by principal components.
@@ -41,6 +43,7 @@ The Wind Power Generation Analysis App is a comprehensive tool for exploring and
   - Interpretation of results, including correlation matrix insights and influential variables.
 
 ### Time Series Modelling
+![TSM Page](screenshots/TSM.png)
 - **Purpose**: 
   - Predict power output using a Long Short-Term Memory (LSTM) model.
 - **Features**:
