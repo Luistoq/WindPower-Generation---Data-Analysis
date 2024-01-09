@@ -33,27 +33,27 @@ The Wind Power Generation Analysis App is a comprehensive tool for exploring and
   - Conduct PCA on the dataset.
   - Display explained variance ratio by principal components.
   - Show correlation matrix with power output.
-  - Identify most influential variables for each principal component.
+  - Identify the most influential variables for each principal component.
 - **Analysis**:
   - Detailed insights into the relationship between principal components and power generation.
-  - Interpretation of results including correlation matrix insights and influential variables.
+  - Interpretation of results, including correlation matrix insights and influential variables.
 
-### LSTM Model Training Page
+### Time Series Modelling
 - **Purpose**: 
-  - To predict power output using a Long Short-Term Memory (LSTM) model.
+  - Predict power output using a Long Short-Term Memory (LSTM) model.
 - **Features**:
   - Explanation of the LSTM model and its hyperparameters.
   - Model training interface with progress visualization.
   - Evaluation of model performance with plots and test loss analysis.
   - Actual vs predicted power output comparison.
 - **User Interaction**: 
-  - Select location and adjust hyperparameters.
+  - Select location.
   - Train the model and visualize predictions.
 
 ### General Features
-- The app is interactive, allowing users to select locations and variables for analysis.
+- The interactive app allows users to select locations and variables for analysis.
 - Graphical representations (line plots, heatmaps) enhance data comprehension.
 - Detailed explanations accompany each analysis for user guidance.
 
 ### Conclusion
-This Streamlit app serves as a powerful tool for wind power data analysis, offering various data processing and visualization capabilities. It's designed for both beginners and advanced users interested in wind energy dynamics.
+This Streamlit app is a powerful tool for wind power data analysis, offering various data processing and visualization capabilities. It's designed for both beginners and advanced users interested in wind energy dynamics.
