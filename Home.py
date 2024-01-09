@@ -9,6 +9,13 @@ st.set_page_config(
 import streamlit as st
 
 def app():
+    # Adding a sidebar with your picture, title, and contact information
+    st.sidebar.subheader("For collaboration on similar projects, please contact me.")
+    st.sidebar.image("screenshots/Designer.png", width=250)  # Adjust width as needed
+    st.sidebar.write("Senior Data Science & Digital Transformation Lead")
+    st.sidebar.markdown("Email: [luistoq@outlook.com](mailto:luistoq@outlook.com)")
+    st.sidebar.markdown("[LinkedIn Profile](https://www.linkedin.com/in/luis-toral-251007/)")
+
     st.title("🌬️ Wind Power Generation Analysis App")
 
     st.markdown("""
