@@ -44,7 +44,7 @@ df_info = pd.DataFrame(list(variable_descriptions.items()), columns=['Variable',
 frequency = st.sidebar.selectbox('Select Frequency', ('Hourly', 'Weekly', 'Monthly', 'Quarterly', 'Yearly'))
 
 # Main content
-st.header(f'Wind Power Generation Analysis: {location}')
+st.header(f'Wind Power Generation: Understanding the Data')
 
 # Plotting the data based on the selected frequency and variable
 fig = plot_data_production(data, selected_variable, frequency)
