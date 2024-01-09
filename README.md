@@ -4,6 +4,7 @@
 The Wind Power Generation Analysis App is a comprehensive tool for exploring and analyzing wind power generation data across four locations. It offers insights into how meteorological factors affect wind power production. The app consists of several pages, each with a specific function.
 
 ### Home Page
+![Home Page](screenshots/Home.png)
 - **Title**: Wind Power Generation Analysis App
 - **Features**:
   - Introduction and overview of the app.
