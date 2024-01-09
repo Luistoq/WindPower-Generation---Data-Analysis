@@ -10,7 +10,7 @@ import streamlit as st
 
 def app():
     # Adding a sidebar with your picture, title, and contact information
-    st.sidebar.subheader("For collaboration on similar projects, please contact me.")
+    st.sidebar.subheader("For collaboration on similar projects, contact me.")
     st.sidebar.image("screenshots/Designer.png", width=250)  # Adjust width as needed
     st.sidebar.write("Senior Data Science & Digital Transformation Lead")
     st.sidebar.markdown("Email: [luistoq@outlook.com](mailto:luistoq@outlook.com)")
