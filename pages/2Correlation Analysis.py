@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-st.title('Correlation Analysis for Wind Power Generation Data')
+st.header('Correlation Analysis for WindPower Data')
 
 # Function to load data
 @st.cache_data  # Corrected decorator here
@@ -21,7 +21,7 @@ location = st.sidebar.selectbox('Select Location', ('Location1', 'Location2', 'L
 data = load_data(location)
 
 # Correlation Analysis
-st.header(f'Correlation Analysis for {location}')
+st.header(f'{location}')
 st.write("Correlation matrix showing the relationships between different variables and power output.")
 
 # Compute Correlation Matrix
